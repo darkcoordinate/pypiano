@@ -1,7 +1,7 @@
 mingus==0.6.1
 numpy
 sf2utils==0.9.0
-requests==2.25.1
+requests
 tqdm==4.60.0
 tox==3.23.0
 flake8==3.9.1
